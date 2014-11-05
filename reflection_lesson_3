@@ -5,3 +5,13 @@ When you are working on another computer.
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Because maybe you are not done with the feature. 
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks are used inorder to copy someones existing work on github, clones are used on your own repository, and branches when you want to try something out. 
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+If you want to work offline or don’t have access to the internet you can still work on the project and make sure you are up to date. 
+
+
+
